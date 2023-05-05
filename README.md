@@ -10,7 +10,6 @@ This is the back end application for an e-commerce website using Express, MySQL,
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Installation
 - Install Node.js v16 and npm
